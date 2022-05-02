@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Cambio4",
+      "day": "2022-04-07T18:01:57.139Z",
+      "reminder": true,
+      "description": "Descripción de ejemplo para la primera tarea. Cambio realizado x2"
+    },
+    {
+      "id": 2,
+      "name": "Nueva2",
+      "day": "2022-04-28T07:16:28.310Z",
+      "reminder": true,
+      "description": "Nueva descripción. MODIFICADA"
+    }
+  ],
+  "users": [
+    {
+      "email": "m@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ]
+}

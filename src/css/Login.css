@@ -1,0 +1,19 @@
+.containerPrincipal {
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid blue;
+    padding: 40px;
+    background-color: white;
+}
+
+.containerSecundario{
+    text-align: center;
+}
+
+label, input{
+    padding: 3px;
+}
+
+.btn {
+    margin-top: 10px;
+}
